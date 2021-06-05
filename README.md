@@ -1,4 +1,6 @@
-### Hi there 👋 
+### Hi i'm Violeta! 👋 
+
+I'm a 18 years old fullstack developer from Argentina 
 
 ```javascript
 const Violeta = {
