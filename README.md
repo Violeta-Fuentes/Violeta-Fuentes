@@ -1,6 +1,11 @@
 # Hi i'm Violeta! 👋👩‍🦰
 
 ## I'm a 18 years old fullstack developer from Argentina 
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+
+---
 
 Languages I use
 
