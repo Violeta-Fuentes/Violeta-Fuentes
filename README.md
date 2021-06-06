@@ -2,13 +2,6 @@
 
 I'm a 18 years old fullstack developer from Argentina 
 
-```javascript
-const Violeta = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Sequelize, PostgreSQL],
-}
-```
 Languages I use
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
