@@ -11,8 +11,8 @@
 
 Languages I use
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=c%2B%2B)
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
