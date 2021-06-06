@@ -28,7 +28,7 @@ Some of the technologies I have worked with
 
 - :mailbox: You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](violeta:violetafuentes2002@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](violetafuentes2002:violetafuentes2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/violeta-fuentes-fullstackdeveloper)
 
 Fun fact: I once solved the world's oldest question with a single line of JavaScript
