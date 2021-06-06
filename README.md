@@ -1,5 +1,7 @@
 # Hi i'm Violeta! 👋👩‍🦰
 
+![header](https://github.com/Violeta-Fuentes/Violeta-Fuentes/raw/master/fullstack.jpg)
+
 ## I'm a 18 years old fullstack developer from Argentina 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
