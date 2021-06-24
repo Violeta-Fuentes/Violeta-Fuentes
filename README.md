@@ -1,4 +1,4 @@
-# Hi i'm Violeta! 👋👩‍🦰
+# Hi i'm Violeta! 👋👩
 
 ![fullstack](https://user-images.githubusercontent.com/74188313/120929487-996c5900-c6bf-11eb-9018-1bc6123e6358.jpg)
 
