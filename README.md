@@ -14,6 +14,7 @@ Languages I use
 ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=c%2B%2B)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 Some of the technologies I have worked with
