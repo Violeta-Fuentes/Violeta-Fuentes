@@ -2,7 +2,7 @@
 
 ![fullstack](https://user-images.githubusercontent.com/74188313/120929487-996c5900-c6bf-11eb-9018-1bc6123e6358.jpg)
 
-## I'm a 18 years old fullstack developer from Argentina 
+## I'm a 20 years old fullstack developer from Argentina 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
